@@ -1,7 +1,4 @@
-
-Assets/.DS_Store
-Kicad/.DS_Store
-Kicad/Outer/.DS_Store
-Kicad/Outer/jlcpcb/.DS_Store
 .DS_Store
+*/.DS_Store
+Kicad/*/jlcpcb
 Kicad/*/Gamecube_SD2SP2PRO-backups

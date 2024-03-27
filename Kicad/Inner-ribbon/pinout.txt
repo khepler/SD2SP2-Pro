@@ -1,0 +1,10 @@
+#   Func    Color
+=   ====    ======
+1   +3V3    Green
+2   GND     Yellow
+3   INT     Orange
+4   CLK     Red
+5   DO      Brown
+6   DI      Black
+7   CS      White
+8   GND     Grey

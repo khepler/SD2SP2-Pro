@@ -1,4 +1,4 @@
-19818324927733719
+19870844518499844
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51239,6 +51239,27 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ESP32-Footprints
+ESP32
+
+
+0
+49
+49
+ESP32-Footprints
+ESP32-WROOM
+
+
+0
+39
+39
+ESP32-Footprints
+ESP3212
+
+
+0
+31
+30
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -55642,6 +55663,146 @@ solder jumper open
 0
 5
 3
+Kris_Footprints
+ESP32_DevKitC
+
+
+0
+38
+38
+Kris_Footprints
+ESP32_DevKit_v1
+
+
+0
+30
+30
+Kris_Footprints
+JST_XH_S3B-XH-A_1x03_P2.50mm_Horizontal_mod
+JST XH series connector, S3B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH horizontal
+0
+3
+3
+Kris_Footprints
+Jack_Phono_3.5mm_Stereo_Kycom_STX-3000
+Headphones, 3.5mm, Stereo, 3 pins, TRS, through-hole
+3.5mm jack stereo phones headphones 3pins audio plug TRS THT
+0
+3
+3
+Kris_Footprints
+MiniDIN-4_KMDGX-4S-BS
+Female MiniDIN-4 Receptacle, through-hole
+s-video apple desktop bus adb solder
+0
+7
+5
+Kris_Footprints
+MiniDIN-8_KMDGX-8S-BS
+Female MiniDIN-4 Receptacle, through-hole
+apple RS-422 serial
+0
+11
+9
+Kris_Footprints
+NES_CART_FINGERS
+
+
+0
+72
+72
+Kris_Footprints
+NES_Cart_Edge_72pin
+
+
+0
+72
+72
+Kris_Footprints
+OLED_Display_I2C_0.98in_subassembly
+Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x04 2.54mm single row
+0
+4
+4
+Kris_Footprints
+PinHeader_NewtonInterconnect_P2.54mm_Vertical
+Through hole straight pin header, 2x13, 2.54mm pitch, double rows
+Through hole pin header THT 2x13 2.54mm double row
+0
+26
+26
+Kris_Footprints
+Protoboard_20x14_12pin_fingers
+Protoboard 20x14 pad edge fingers
+protoboard fingers
+0
+24
+24
+Kris_Footprints
+Protoboard_24x10_8pin_fingers
+Protoboard 24x10 pad edge fingers
+protoboard fingers
+0
+16
+16
+Kris_Footprints
+Protoboard_24x18_16pin_fingers
+Protoboard 24x18 pad edge fingers
+protoboard fingers
+0
+32
+32
+Kris_Footprints
+Protoboard_28x06_4pin_fingers
+Protoboard 28x06 pad edge fingers
+protoboard fingers
+0
+8
+8
+Kris_Footprints
+RHDR64W90P508X254_2X32_8786X929X1549P
+10046971-001LF
+Connector
+0
+64
+64
+Kris_Footprints
+Samtec_HLE-132-02-xx-DV-TE_2x32_P2.54mm_Horizontal
+Samtec HLE .100" Tiger Beam Cost-effective Single Beam Socket Strip, HLE-132-02-xx-DV-TE, 32 Pins per row (http://suddendocs.samtec.com/prints/hle-1xx-02-xx-dv-xe-xx-mkt.pdf, http://suddendocs.samtec.com/prints/hle-thru.pdf), generated with kicad-footprint-generator
+connector Samtec HLE top entry
+0
+64
+64
+Kris_Footprints
+TerminalBlock-3_1x03_P2.54mm_Horizontal
+Terminal Block TE 282834-3, 3 pins, pitch 2.54mm, size 8.08x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
+THT Terminal Block TE 282834-3 pitch 2.54mm size 8.08x6.5mm^2 drill 1.1mm pad 2.1mm
+0
+3
+3
+Kris_Footprints
+TerminalBlock-3_P5.08mm
+simple 3-pin terminal block, pitch 5.08mm, revamped version of bornier3
+terminal block bornier3
+0
+3
+3
+Kris_Footprints
+Wire_0603_1608Metric
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Kris_Footprints
+Xserve_G5_Power_Connector
+Molex Mini-Fit Jr. Power Connectors, old mpn/engineering number: 5566-14A, example for new mpn: 39-28-x14x, 7 Pins per row, Mounting:  (http://www.molex.com/pdm_docs/sd/039281043_sd.pdf), generated with kicad-footprint-generator
+connector Molex Mini-Fit_Jr side entry
+0
+14
+14
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -61256,6 +61417,13 @@ BGA 484 0.8 SBG485 SBV485
 0
 484
 484
+Package_BGA_User
+VFBGA-48
+
+CY7C1021DV33-10BVXI 
+0
+48
+48
 Package_CSP
 Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm
 LFCSP, exposed pad, Analog Devices (http://www.analog.com/media/en/technical-documentation/data-sheets/ADL5542.pdf)
@@ -71210,6 +71378,27 @@ TSOC-6
 0
 6
 6
+Package_SO_User
+TSOP32_400MIL_TYPE2_ISI
+
+IS63LV1024L-10TLI 
+0
+32
+32
+Package_SO_User
+TSOP32_400MIL_TYPE2_ISI-L
+
+IS63LV1024L-10TLI 
+0
+32
+32
+Package_SO_User
+TSOP32_400MIL_TYPE2_ISI-M
+
+IS63LV1024L-10TLI 
+0
+32
+32
 Package_TO_SOT_SMD
 ATPAK-2
 ATPAK SMD package, http://www.onsemi.com/pub/Collateral/ENA2192-D.PDF
@@ -83712,6 +83901,41 @@ transformer flyback
 0
 10
 10
+User Footprints
+ESP32-WROVER-IE
+
+
+0
+47
+39
+User Footprints
+IC_DRV8833PWPR
+
+
+0
+29
+29
+User Footprints
+QFN50P300X300X80-17N
+
+
+0
+17
+17
+User Footprints
+SW_1825910-6-4
+
+
+0
+4
+4
+User Footprints
+TE Conn 2-1825910-2 tactile button
+
+
+0
+4
+4
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
